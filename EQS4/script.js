@@ -8,7 +8,7 @@ function reverseArray(array){
       }
       return val
  }
-  
+ 
   
 console.log(reverseArray(["A", "B", "C"]));
 
@@ -22,12 +22,6 @@ function reverseArrayInPlace(array){
       }
       return array
 }
-
-
-
-
-
-
 
 reverseArrayInPlace(arrayValue);  
 
